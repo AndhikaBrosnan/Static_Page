@@ -1,0 +1,65 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "LeBron James",
+      "status":"Multi-layered client-server neural-net",
+      "imgUrl":"https://drive.google.com/open?id=1-MqzZ66llrf1mW2LeCp7GhlQOyCko_8t"
+
+    },
+    {
+      "id": 2,
+      "name": "Kyrie Irving",
+      "status": "Proactive didactic contingency",
+      "imgUrl":"https://drive.google.com/open?id=19IGdU6b3oN_QcmfldRd-s9ZCH4ysokW3"
+    },
+    {
+      "id": 3,
+      "name": "Michael Jordan",
+      "status": "Face to face bifurcated interface",
+      "imgUrl":"https://drive.google.com/open?id=1lvPJKVLovhiB_4pcT783TbBSWsE6FA8C"
+    },
+    {
+      "id": 4,
+      "name": "Stephen Curry",
+      "status": "Multi-tiered zero tolerance productivity",
+      "imgUrl":"https://drive.google.com/open?id=18VwYrDda-IBN2lNAl2WB9CA00nqTnyr9"
+    },
+    {
+      "id": 5,
+      "name": "James Harden",
+      "status": "User-centric fault-tolerant solution",
+      "imgUrl":"https://drive.google.com/open?id=1xiUszSLFaebDc0zFoVEhAWSN9pxnHdFn"
+    },
+    {
+      "id": 6,
+      "name": "Ja Morant",
+      "status": "Synchronised bottom-line interface",
+      "imgUrl":"https://drive.google.com/open?id=1xZe47CMZDPqYd6gP7VPlvpxUoCYvj2WL"
+    },
+    {
+      "id": 7,
+      "name": "Kawhi Leonard",
+      "status": "Configurable multimedia task-force",
+      "imgUrl":"https://drive.google.com/open?id=1ElajnAKE88sc80YZiBP7onKHRP9c5no4"
+    },
+    {
+      "id": 8,
+      "name": "Magic Johnson",
+      "status": "Implemented secondary concept",
+      "imgUrl":"https://drive.google.com/open?id=1iWmu000j5S-H-ccKhz9F1OPkTPTzaujj"
+    },
+    {
+      "id": 9,
+      "name": "Kobe Bryant",
+      "status": "Mamba Mentality",
+      "imgUrl":"https://drive.google.com/open?id=16ALqqgpPt-7zLaWwkslovdKt5IBG_4xr"
+    },
+    {
+      "id": 10,
+      "name": "Derrick Rose",
+      "status": "Switchable contextually-based project",
+      "imgUrl":"https://drive.google.com/open?id=1nLKUeDuXAWGfrK51Ba8rE94VLhpUyULT"
+    }
+  ]
+}
